@@ -1,2 +1,2 @@
--- set language of messages to English for me
+-- changed comment
 SET lc_messages = 'en_US';
