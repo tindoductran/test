@@ -1,0 +1,4 @@
+LOAD DATA INFILE '/Users/Tin Tran/Desktop/data/test.csv' INTO TABLE test
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"' LINES TERMINATED BY '\r\n' 
+IGNORE 1 LINES;
